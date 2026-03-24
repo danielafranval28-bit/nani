@@ -1,0 +1,22 @@
+"0","ggsave(graph1, file=""output/graphs/graph1.png"")
+"
+"2","Cannot find directory ]8;;file://C:/Users/UAH/Documents/output/graphs[34moutput/graphs[39m]8;;.
+"
+"2","[36mℹ[39m Would you like to create a new directory?
+"
+"1",""
+"1","
+"
+"1","1: Yes"
+"1","
+"
+"1","2: No"
+"1","
+"
+"1",""
+"1","
+"
+"0","1"
+"2","[32m✔[39m Created directory: [34m[34m]8;;file://C:/Users/UAH/Documents/output/graphsoutput/graphs]8;;[34m[39m.
+"
+"2","[38;5;232mSaving 7 x 7 in image[39m"
